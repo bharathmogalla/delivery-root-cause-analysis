@@ -4,7 +4,7 @@ SQL + Power BI project analyzing 96,000+ Brazilian e-commerce orders to identify
 
 ## 📊 Dashboard Preview
 
-![Olist Delivery Dashboard](BI Dashboard preview.png)
+![Olist Delivery Dashboard](BI%20Dashboard.png)
 
 ## Key Findings
 - Only 6.8% of orders arrived late, but average delay was -11 days — estimates are heavily padded
